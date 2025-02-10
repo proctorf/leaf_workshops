@@ -72,10 +72,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170241387",
+	"id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml1.xml?place_annotation_20240123170643090",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-23T22:02:41.387Z",
-	"dcterms:modified": "2024-01-23T22:06:43.090Z",
+	"dcterms:created": "2024-01-23T22:06:43.090Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/proctorf",
 		"@type": [
@@ -86,10 +85,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170241387#Target",
+		"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml1.xml?place_annotation_20240123170643090#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml1.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -97,10 +96,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240123170241387#Selector",
+			"@id": "https://raw.githubusercontent.com/proctorf/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml1.xml?place_annotation_20240123170643090#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/placeName"
 		}
@@ -115,7 +114,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.6.0"
 	}
 }]]>
         </rdf:Description>
@@ -144,7 +143,7 @@
                said about us than that we walk the <placeName key="City of Westminster England United Kingdom" ref="https://geonames.org/2634341">streets of Westminster</placeName>. <placeName>Big Ben</placeName> too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
-               happy childhood—and it was not to his daughters only that Justin Parry had seemed a
+               happy childhood—and it was not to his daughters only that <persName>Justin Parry </persName>had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
                nothing to take the place of childhood. A leaf of mint brings it back; or a cup with
